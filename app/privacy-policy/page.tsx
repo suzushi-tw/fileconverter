@@ -1,104 +1,74 @@
 export default function PrivacyPolicy() {
   return (
     <div className="space-y-12 text-md md:text-lg text-gray-500 pb-4 md:pb-8">
-      <p>Effective Date: Wed 6 Sep 2023</p>
-      <p>
-        At Modifio, we are committed to safeguarding your privacy. This Privacy
-        Policy outlines our practices regarding the collection, use, and
-        disclosure of personal information when you use our website and
-        services. Please read this policy carefully to understand how we handle
-        your data.
-      </p>
-      <div className="space-y-2">
-        <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          1. Information We Collect
-        </h2>
-        <p>
-          We collect and use limited information to improve the user experience.
-          The only data we collect is through Google Analytics, which includes:
-          Usage Information: We may collect information about your interaction
-          with our website, such as the pages you visit, your IP address,
-          browser type, device type, and referral URLs. This information helps
-          us understand how users interact with our website to enhance its
-          functionality and content.
-        </p>
-      </div>
+  <p>生效日期：2023年10月14日（星期六）</p>
+  <p>
+    我們致力於保護您的隱私。本隱私政策概述了當您使用我們的網站和服務時，我們如何收集、使用和披露個人信息。請仔細閱讀本政策，以了解我們如何處理您的數據。
+  </p>
+  <div className="space-y-2">
+    <h2 className="text-xl md:text-2xl font-medium text-gray-700">
+      1. 我們收集的信息
+    </h2>
+    <p>
+      我們收集和使用有限的信息來改善用戶體驗。我們唯一收集的數據是通過Google Analytics，其中包括：
+      使用信息：我們可能會收集有關您與我們網站的互動信息，例如您訪問的頁面、您的IP地址、瀏覽器類型、設備類型和推薦URL。這些信息幫助我們了解用戶如何與我們的網站互動，以提高其功能和內容。
+    </p>
+  </div>
 
-      <div className="space-y-2">
-        <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          2. How We Use Your Information
-        </h2>
-        <p>
-          We use the information collected through Google Analytics solely for
-          the purpose of understanding user behavior and improving our website's
-          performance. We do not sell, rent, or share this information with
-          third parties.
-        </p>
-      </div>
+  <div className="space-y-2">
+    <h2 className="text-xl md:text-2xl font-medium text-gray-700">
+      2. 我們如何使用您的信息
+    </h2>
+    <p>
+      我們僅將通過Google Analytics收集的信息用於了解用戶行為和改善我們網站的性能。我們不會出售、出租或與第三方共享這些信息。
+    </p>
+  </div>
 
-      <div className="space-y-2">
-        <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          3. Cookies and Tracking Technologies
-        </h2>
-        <p>
-          We use cookies and similar tracking technologies to collect and store
-          information about your interactions with our website. You can control
-          cookie preferences through your browser settings. Please note that
-          disabling cookies may affect your experience on our website.
-        </p>
-      </div>
+  <div className="space-y-2">
+    <h2 className="text-xl md:text-2xl font-medium text-gray-700">
+      3. Cookies和跟蹤技術
+    </h2>
+    <p>
+      我們使用cookies和類似的跟蹤技術來收集和存儲有關您與我們網站的互動信息。您可以通過您的瀏覽器設置控制cookie偏好。請注意，禁用cookies可能會影響您在我們網站上的體驗。
+    </p>
+  </div>
 
-      <div className="space-y-2">
-        <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          4. Data Security
-        </h2>
-        <p>
-          We take reasonable measures to protect your data against unauthorized
-          access, disclosure, alteration, or destruction. However, please be
-          aware that no method of data transmission over the internet or
-          electronic storage is 100% secure.
-        </p>
-      </div>
+  <div className="space-y-2">
+    <h2 className="text-xl md:text-2xl font-medium text-gray-700">
+      4. 數據安全
+    </h2>
+    <p>
+      我們採取合理措施保護您的數據免受未經授權的訪問、披露、更改或破壞。但是，請注意，沒有任何一種數據傳輸或電子存儲方法是100%安全的。
+    </p>
+  </div>
 
-      <div className="space-y-2">
-        <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          5. Third-Party Links
-        </h2>
-        <p>
-          Our website may contain links to third-party websites or services that
-          are not operated by us. We have no control over the content, privacy
-          policies, or practices of these third-party websites. We encourage you
-          to review the privacy policies of these websites before providing any
-          personal information.
-        </p>
-      </div>
+  <div className="space-y-2">
+    <h2 className="text-xl md:text-2xl font-medium text-gray-700">
+      5. 第三方鏈接
+    </h2>
+    <p>
+      我們的網站可能包含指向非我們運營的第三方網站或服務的鏈接。我們對這些第三方網站的內容、隱私政策或做法沒有任何控制權。我們鼓勵您在提供任何個人信息之前，查看這些網站的隱私政策。
+    </p>
+  </div>
 
-      <div className="space-y-2">
-        <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          6. Children's Privacy
-        </h2>
-        <p>
-          Our website is not intended for children under the age of 13. We do
-          not knowingly collect personal information from children. If you are a
-          parent or guardian and believe that your child has provided us with
-          personal information, please contact us, and we will take appropriate
-          action to remove that information.
-        </p>
-      </div>
+  <div className="space-y-2">
+    <h2 className="text-xl md:text-2xl font-medium text-gray-700">
+      6. 兒童隱私
+    </h2>
+    <p>
+      我們的網站不適用於13歲以下的兒童。我們不會故意收集兒童的個人信息。如果您是父母或監護人，並且認為您的孩子向我們提供了個人信息，請聯繫我們，我們將採取適當的行動刪除該信息。
+    </p>
+  </div>
 
-      <div className="space-y-2">
-        <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          7. Changes to This Privacy Policy
-        </h2>
-        <p>
-          We reserve the right to update or modify this Privacy Policy at any
-          time without prior notice. Any changes will be effective immediately
-          upon posting on this page, and the date of the latest revision will be
-          indicated at the top of the policy.
-        </p>
-      </div>
+  <div className="space-y-2">
+    <h2 className="text-xl md:text-2xl font-medium text-gray-700">
+      7. 本隱私政策的變更
+    </h2>
+    <p>
+      我們保留隨時更新或修改本隱私政策的權利，恕不另行通知。任何更改將在本頁面上發布，並在發布時生效。請定期查看本政策，以了解我們如何保護您的數據。
+    </p>
+  </div>
+</div>
 
-
-    </div>
   );
 }
